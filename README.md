@@ -1,12 +1,12 @@
-# Puntos-con-OpenGL-en-Java
+# Puntos con OpenGL en Java
 Esta aplicación presenta una cuadrícula en pantalla completa utilizando sólo puntos, cada cuadro tiene un ancho y alto de 30 unidades.
 
 El programa fue escrito en el lenguaje Java con ayuda del entorno de desarrollo Netbeans.
 En las siguientes líneas se presenta una descripción de cada captura de pantalla que fue tomada al código fuente, esto con el fin de que el lector pueda comprender el manejo de las funciones. finalmente se presenta los resultados del programa, en este caso un screenshot donde se puede apreciar una cuadrícula en pantalla completa formada por puntos.
 
-Código Fuente
 
-Librerías
+**### Código Fuente**
+
 
 Para elaborar un programa es indispensable hacer uso de las librerías, es por ello que se presenta las librerías usadas en este programa.
 
@@ -39,7 +39,7 @@ La penúltima sentencia indica que ya no se pintarán más puntos y la última s
 
 Las últimas dos funciones son parte de la interfaz GLEventListener pero en esta ocasión no haremos uso de ella.
 
-Ejecución del programa
+**### Ejecución del programa**
 
 En la siguiente pantalla se presenta la captura donde podemos ver el resultado de todo el código que hemos explicado anteriormente.
 
